@@ -1,3 +1,5 @@
+#Based on the work of Sergio Canu https://pysource.com/2018/03/21/feature-detection-sift-surf-obr-opencv-3-4-with-python-3-tutorial-25/
+
 from __future__ import division
 
 import cv2
